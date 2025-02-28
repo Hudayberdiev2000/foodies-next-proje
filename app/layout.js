@@ -10,6 +10,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
+    <script async defer data-website-id="71ab2c69-1a57-48b9-9782-66ac92645389" src="https://metrics.com.tm/ynamly.js"></script>
         <MainHeader />
 
         {children}
